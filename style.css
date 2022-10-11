@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 nav{
-    background-color: aqua;    
+    background-color: red;    
 }
 ul{
     display: flex;
@@ -12,3 +12,4 @@ ul{
     padding: .3rem;
     list-style: none;
 }
+
